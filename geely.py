@@ -5,8 +5,8 @@ from datetime import datetime
 import json
 
 # 修改信息
-TOKEN = "fxxx8"  # 替换为实际 token
-DEVICESN = "31xxx2"  # 替换为实际设备序列号
+TOKEN = "f-x-x-x-8"  # 替换为实际 32位token
+DEVICESN = "31xxx2"  # 替换为16位实际设备序列号
 
 # 固定信息
 BASE_URL = "https://app.geely.com"
